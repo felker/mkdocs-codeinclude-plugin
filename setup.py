@@ -27,7 +27,6 @@ setup(
         'mkdocs>=1.2',
         'pygments>=2.9.0'
     ],
-    setup_requires=['better-setuptools-git-version'],
     classifiers=[
         'Intended Audience :: Developers',
         'Intended Audience :: Information Technology',
